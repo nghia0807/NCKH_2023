@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "337146669907",
+    "project_id": "didong-46119",
+    "storage_bucket": "didong-46119.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337146669907:android:5dc49b1c76877ec52e4fa6",
+        "android_client_info": {
+          "package_name": "com.example.phan4_bai1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337146669907-ag52piltihricldnbl7qtnvf2dspbsta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8mYxtgUiESZ0okooG2fintPxAqCly9Cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337146669907-ag52piltihricldnbl7qtnvf2dspbsta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
